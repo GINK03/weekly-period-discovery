@@ -1,11 +1,11 @@
-# weeklu-period-discovery
+# weekly-period-discovery
 
-## これは
+## what is this
 １週間の曜日（月火水木金土日）で、ユーザの検索行動が異なると仮説を与えると、キーワードによって平日が多いか休日が多くなると言えます
  
 過去数年のGoogle Display Networkのサーチキーワードを曜日ごとのimpressionの平均を求めることで、その仮説が成り立ちうるキーワードを探します
 
-## 使い方
+## how to use
 StormRulerなどのGDNなどのパフォーマンスが取得できるソフトで、Adwordsのログを取得していることが前提となります  
 
 ### データのシリアライズ
@@ -32,3 +32,7 @@ $ python3 scanner.py --make4
 ```console
 $ python3 scanner.py --make5
 ```
+
+## result
+集計結果でキーワードごとに差があるが、大局的な傾向としては、健康志向やビジネスに関するものに関しては、月火水木が多い  
+これの対極として、デジタル製品に関しては土日が多い  
