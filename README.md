@@ -75,3 +75,9 @@ $ python3 scanner.py --make5
   <img width="450px" src="https://user-images.githubusercontent.com/4949982/29996651-66479d26-903d-11e7-8b84-c40512318e32.png">
 </p>
 <div align="center"> 図8. +スマートフォン </div>
+
+特殊な動きをするキーワードの例
+<p align="center">
+  <img width="450px" src="https://user-images.githubusercontent.com/4949982/29996668-b9312ad4-903d-11e7-8550-0133f002ff3a.png">
+</p>
+<div align="center"> 図9. instagram </div>
